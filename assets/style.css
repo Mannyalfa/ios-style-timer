@@ -12,8 +12,8 @@ body{
     background: #F1E4E4;
 }
 .box{
-    height: 450px;
-    width: 250px;
+    height: 600px;
+    width: 350px;
     border-radius: 10px;
     display: flex;
     flex-direction: column;
@@ -21,13 +21,13 @@ body{
     color: palegoldenrod;
     background: linear-gradient(to bottom,#0915bd,#774fd4);
 }
-.box h3{
+.box h2{
     position: relative;
     letter-spacing: 1px;
     margin: 35px 0;
     text-align: center;
 }
-.box h3::after{
+.box h2::after{
     position: absolute;
     content: '';
     left: 50%;
@@ -39,15 +39,15 @@ body{
 }
 .time__circle{
     position: relative;
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
     background: #0456d1;
     border-radius: 50%;
     border: 2px solid #021736;
     text-align: center;
 }
 .time__circle p{
-    font-size: 18px;
+    font-size: 22px;
     margin: 35px 0;
 }
 .sec__circle{
@@ -64,9 +64,9 @@ body{
     position: absolute;
     top: -6px;
     right: -5px;
-    height: 10px;
-    width: 10px;
-    background: palegoldenrod;
+    height: 12px;
+    width: 12px;
+    background: red;
     border-radius: 50%;
     border: 1px solid black;
 }
@@ -77,15 +77,12 @@ span{
     cursor: pointer;
 }
 .timer__controls .play__btn{
-    padding: 10px;
-    line-height: 10px;
+    position: center;
+    padding: 20px;
+    line-height: 20px;
     border-radius: 50%;
     border: 1px darkblue;
     background:skyblue;
-}
-
-h6 {
-    color: darkblue;
 }
 
 
