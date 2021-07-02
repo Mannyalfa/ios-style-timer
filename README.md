@@ -23,7 +23,7 @@ IOS-style  Timer
 10. [Credits](#credits)
 
 ## Description
-This is my first attempt at a UX/UI app
+This is my first attempt at a UX/UI app specifically for mobile devices
 
 ## Installation
 none
