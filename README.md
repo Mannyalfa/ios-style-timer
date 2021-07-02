@@ -35,7 +35,7 @@ Simply press start/stop
 MIT [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Image
-![screenshot](hg)
+![screenshot](https://github.com/Mannyalfa/ios-style-timer/blob/main/assets/images/screenshot.jpg)
 
 ## Languages/Applications
 HTML, CSS, javaScript
